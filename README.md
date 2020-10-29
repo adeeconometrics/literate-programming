@@ -5,7 +5,7 @@ I indend this to be a stepping stone for more more specialized sciences.
 
 ----
 ## Proposed list of topics:
-- Discrete Math
+- Discrete Maths
 - Elementary Statistics
 - Intermediate Statistical Analysis
 - Statistical Modelling
