@@ -8,5 +8,6 @@ I indend this to be a stepping stone for more more specialized sciences.
 - Discrete Maths
 - Elementary Statistics
 - Intermediate Statistical Analysis
-- Statistical Modelling
+- Symbolic and numerical methods for Statistical Modelling
+- Symbolic and numerical methods of optimization
 - Computer Simulations
